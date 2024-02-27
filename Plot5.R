@@ -21,4 +21,3 @@ g <- g + geom_bar(stat="identity") +
 print(g)
 dev.off()
 
-# I am pacticing it and see if the changes come or not. 
