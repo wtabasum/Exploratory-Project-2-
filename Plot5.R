@@ -20,3 +20,5 @@ g <- g + geom_bar(stat="identity") +
   ggtitle('Total Emissions from motor vehicle (type = ON-ROAD) in Baltimore City, Maryland (fips = "24510") from 1999 to 2008')
 print(g)
 dev.off()
+
+# I am pacticing it and see if the changes come or not. 
